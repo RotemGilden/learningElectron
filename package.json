@@ -1,0 +1,20 @@
+{
+  "name": "learningelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RotemGilden/learningElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RotemGilden/learningElectron/issues"
+  },
+  "homepage": "https://github.com/RotemGilden/learningElectron#readme"
+}
